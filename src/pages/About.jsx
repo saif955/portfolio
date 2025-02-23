@@ -1,5 +1,6 @@
 import darkImage from '../images/pexels-francesco-ungaro-998641.jpg';
 import lightImage from '../images/pexels-lastly-937782.jpg';
+import profilepic from '../images/crop.jpg'
 import { Box, Center,  Text, Image, useMediaQuery, Flex, Button } from "@chakra-ui/react"
 import { useColorModeValue } from "@chakra-ui/react"
 import { motion, MotionConfig } from 'framer-motion'
@@ -102,7 +103,9 @@ const About = () => {
                   borderRadius='full'
                   boxSize={{ base: '200px', md: '400px' }}
                   objectFit='cover'
-                  src='src/images/crop.JPG'
+                  backgroundImage={useColorModeValue(`url(${profilepic})`, `url(${profilepic})`)}
+                  backgroundSize="cover"
+                  backgroundPosition="center"
                   alt='Saifur Rahman'
                   border={`4px solid ${useColorModeValue('rgba(0,0,0,0.1)', 'rgba(255,255,255,0.1)')}`}
                 />
