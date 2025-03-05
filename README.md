@@ -1,8 +1,10 @@
-# React + Vite
+# Portfolio using React and Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+1. Used React with Vite to create a portfolio
+2. Used Chakra UI to create the layout of the pages.
+3. Used framer-motion to animate the pages.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#Usage
+To use this app simply use npm run dev.
+
