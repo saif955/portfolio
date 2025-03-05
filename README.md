@@ -6,6 +6,12 @@
 3. Used framer-motion to animate the pages.
 
 # Usage
-To use this app simply use npm run dev.
+
+To use this app simply use
+
+```
+npm run dev.
+```
+
 This is deployed in gh-pages.
 
