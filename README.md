@@ -5,6 +5,6 @@
 2. Used Chakra UI to create the layout of the pages.
 3. Used framer-motion to animate the pages.
 
-#Usage
+# Usage
 To use this app simply use npm run dev.
 
