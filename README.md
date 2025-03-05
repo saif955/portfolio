@@ -7,4 +7,5 @@
 
 # Usage
 To use this app simply use npm run dev.
+This is deployed in gh-pages.
 
