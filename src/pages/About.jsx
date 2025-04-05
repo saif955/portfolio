@@ -68,12 +68,13 @@ const About = () => {
                     textAlign="justify"
                     fontSize={{ base: 'md', md: 'lg' }}
                     lineHeight={{ base: 1.6, md: 1.8 }}
+                    fontWeight="bold"
                   >
                     I am a Computer Science graduate proficient in full-stack development, data analysis, and machine
                     learning. Familiar with applying Python (Pandas, NumPy, Matplotlib) to derive insights and visualize
                     complex datasets, and proficient in building scalable backends using Django and Express.js.
                     Experienced with front-end development using JavaScript and React to create dynamic interfaces.
-                    Familiar with SQL for database maintenance/design and Git/GitHub for collaborative version control.
+                    Experienced in SQL and NoSQL database design, implementation and maintenance. Proficient with Git/GitHub for version control and collaborative development.
                   </Text>
                 </Box>
               </motion.div>

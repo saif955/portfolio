@@ -7,7 +7,7 @@ const rootElement = document.getElementById('root')
 ReactDOM.createRoot(rootElement).render(
   <React.StrictMode>
     <ChakraProvider>
-    <BrowserRouter >
+    <BrowserRouter basename='/portfolio/' >
         <App />
         </BrowserRouter>
     </ChakraProvider>     

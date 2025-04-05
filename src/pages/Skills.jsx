@@ -83,13 +83,13 @@ const Skills = () => {
                   >
                 Data analysis tools: Pandas, NumPy, Matplotlib <br />
                 Programming Languages: Python, Java, JavaScript, C++, HTML, CSS <br />
+                Frontend: React, Chakra UI, Framer Motion<br />
                 Backend: Django, Express, Node<br />
                 Machine learning framework: Scikit-learn<br />
                 Version control systems: Git/GitHub<br />
-                Database: MySQL<br />
+                Database: MySQL, MongoDB<br />
                 Soft Skills: Problem-solving, Analytical thinking, Teamwork, 
                 Time management, Adaptability<br />
-                Frontend: React, Chakra UI<br />
                 </Text>
             </Box>
             <Link to="/Socials">
