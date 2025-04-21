@@ -5,13 +5,18 @@
 2. Used Chakra UI to create the layout of the pages.
 3. Used framer-motion to animate the pages.
 
-# Usage
+# Local setup
+```
+git clone https://github.com/saif955/portfolio.git
+```
 
-To use this app simply use
+To run this in dev mode
 
 ```
 npm run dev.
 ```
 
+
 This is deployed in gh-pages.
 
+https://saif955.github.io/portfolio/
