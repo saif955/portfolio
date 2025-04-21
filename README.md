@@ -13,7 +13,7 @@ git clone https://github.com/saif955/portfolio.git
 To run this in dev mode
 
 ```
-npm run dev.
+npm run dev
 ```
 
 
