@@ -86,10 +86,10 @@ const Skills = () => {
                 Backend: Django, Express, Node<br />
                 Machine learning framework: Scikit-learn<br />
                 Version control systems: Git/GitHub<br />
-                Database: MySQL<br />
+                Database: MySQL, MongoDB<br />
                 Soft Skills: Problem-solving, Analytical thinking, Teamwork, 
                 Time management, Adaptability<br />
-                Frontend: React, Chakra UI<br />
+                Frontend: React, Chakra UI, Bootstrap<br />
                 </Text>
             </Box>
             <Link to="/Socials">
