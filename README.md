@@ -20,3 +20,7 @@ npm run dev
 This is deployed in gh-pages.
 
 https://saif955.github.io/portfolio/
+
+This is also deployed in Verccel.
+
+https://portfolio-alpha-ten-99.vercel.app/
