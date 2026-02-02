@@ -1,6 +1,6 @@
 import darkImage from "../images/pexels-francesco-ungaro-998641.jpg";
 import lightImage from "../images/pexels-lastly-937782.jpg";
-import profilepic from "../images/crop.jpg";
+import profilepic from "../images/crop.JPG";
 import {
   Box,
   Center,
