@@ -293,7 +293,7 @@ const Projects = () => {
                 </motion.div>
               </Link>
 
-              <Link to="/Skills">
+              <Link to="/work-experience">
                 <Button
                   bg={useColorModeValue(
                     "rgba(255, 255, 255, 0.8)",
